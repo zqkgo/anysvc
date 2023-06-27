@@ -1,0 +1,1 @@
+anysvc is a service with almost everything running on a production env, but WITHOUT business logic. 😛
